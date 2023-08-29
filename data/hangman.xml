@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<states>
+    <state index = "1">
+        <![CDATA[
+            ------|
+            |     |
+                  |
+                  |
+                  |
+               -------
+        ]]>
+    </state>
+    <state index = "2">
+        <![CDATA[
+            ------|
+            |     |
+            0     |
+                  |
+                  |
+               -------
+        ]]>
+    </state>
+    <state index = "3">
+        <![CDATA[
+            ------|
+            |     |
+            0     |
+            |     |
+                  |
+               -------
+        ]]>
+    </state>
+    <state index = "4">
+        <![CDATA[
+            ------|
+            |     |
+            0     |
+            |-    |
+                  |
+               -------
+        ]]></state>
+    <state index = "5">
+        <![CDATA[
+            ------|
+            |     |
+            0     |
+           -|-    |
+                  |
+               -------
+        ]]>
+    </state>
+    <state index = "6">
+        <![CDATA[
+            ------|
+            |     |
+            0     |
+           -|-    |
+             \    |
+               -------
+        ]]></state>
+    <state index = "7">
+        <![CDATA[
+            ------|
+            |     |
+            0     |
+           -|-    |
+           / \    |
+               -------
+        ]]></state>
+</states>
