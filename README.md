@@ -13,7 +13,7 @@ https://pugixml.org/
 
 ### Compile
 ```shell
-g++ src/main.cpp -o src/main
+g++ hangman/src/main.cpp -o hangman/src/main
 ```
 ### Run
 ```shell
